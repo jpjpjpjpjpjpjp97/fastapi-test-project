@@ -131,8 +131,12 @@ dist-ssr
 *.sw?
 
 dist/
-frontend/
 .prettierrc
 pyproject.toml
 fastapitest.db
 backend/app/settings.ini
+fastapitest.session.sql
+.vscode/extensions.json
+backend/docker-commands.txt
+backend/Dockerfile
+backend/cert/7AE15A7223EE5C942C79E9196DC6E51A.txt
